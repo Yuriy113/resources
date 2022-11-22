@@ -1,0 +1,22 @@
+# resources
+### Useful links for frontend web developers
+
+Markdown Handbook:  
+https://ru.markdown.net.br/
+
+Game Programming Patterns online book:  
+https://www.gameprogrammingpatterns.com  
+(+ перевод: https://martalex.gitbooks.io/gameprogrammingpatterns/content/chapter-1/1-introduction.html)
+
+Front End Interview Handbook:  
+https://www.frontendinterviewhandbook.com
+
+Developer Roadmaps:  
+https://roadmap.sh/roadmaps
+
+Learn React:  
+https://scrimba.com/playlist/p7P5Hd 
+
+Improve how you architect webapps:  
+https://www.patterns.dev/
+
