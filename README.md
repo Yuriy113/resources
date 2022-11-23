@@ -20,3 +20,5 @@ https://scrimba.com/playlist/p7P5Hd
 Improve how you architect webapps:  
 https://www.patterns.dev/
 
+Front-end web developer by MDN:  
+https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer
