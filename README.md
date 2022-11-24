@@ -22,3 +22,9 @@ https://www.patterns.dev/
 
 Front-end web developer by MDN:  
 https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer
+
+Web Hypertext Application Technology Working Group:  
+https://whatwg.org/
+
+WebDev free courses  
+https://web.dev/
