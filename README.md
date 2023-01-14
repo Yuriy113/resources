@@ -28,3 +28,6 @@ https://whatwg.org/
 
 WebDev free courses  
 https://web.dev/
+
+React Docs Beta:  
+https://beta.reactjs.org/
