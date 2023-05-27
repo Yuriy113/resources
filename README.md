@@ -31,3 +31,6 @@ https://web.dev/
 
 React Docs Beta:  
 https://beta.reactjs.org/
+
+All about README.md file markup  
+https://github.com/BEPb/README/blob/master/README.md
